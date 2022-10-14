@@ -1,0 +1,48 @@
+Data Set 1 (conposcovidloc)
+Brief Description of data used:
+
+
+The data set provides information on Confirmed Positive cases of Covid 19 in Ontario and displays the public health unit alongside episode date, age group, and gender. 
+
+
+
+
+-----------------------------------------------------------
+
+Data includes:
+
+approximation of onset date
+age group
+patient gender
+case acquisition information
+patient outcome
+reporting Public Health Unit (PHU)
+postal code, website, longitude, and latitude of PHU
+
+-----------------------------------------------------------
+
+Additional Info:
+
+Created:	March 24, 2020
+Format:	text/csv
+File size:	64.4 MiB
+License:	Open Government Licence – Ontario
+Data range start:	2020-01-21
+Updaters:
+Bianca Sayan
+Hao Qin
+
+Data Set 2 (response_framework)
+Brief Description of data used:
+
+-----------------------------------------------------------
+
+Data includes:
+
+Public Health Unit (PHU)
+PHU’s website
+COVID-19 zone
+
+-----------------------------------------------------------
+
+Additional Info:

@@ -1,0 +1,6 @@
+Status,Number Of Cases
+Lockdown (2020-03-08 to 2020-11-06),16016
+Control and Lockdown (2020-11-07 to 2020-11-22),6757
+Lockdown (2020-11-23 to 2020-12-25),14581
+Stay-at-home and Lockdown (2020-12-26 to 2021-03-07),25292
+Lockdown (2021-03-08 to 2021-03-21),980

@@ -1,0 +1,13 @@
+Positive COVID-19 Cases,School's Name
+1,Guardian Angel Catholic ES
+2,White Oaks Secondary School
+4,West Oak Public School
+6,Holy Trinity Catholic Secondary School
+6,St. Andrew Catholic Elementary School
+6,St. Ignatius of Loyola Catholic Secondary School
+8,Maple Grove Public School
+9,Emily Carr Public School
+9,Oodeenawi Public School
+9,St. Thomas Aquinas Catholic Secondary School
+12,St. Marguerite d\xe2\x80\x99Youville Catholic Elementary School
+14,Sunningdale Public School

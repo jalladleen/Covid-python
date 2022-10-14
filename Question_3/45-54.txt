@@ -1,0 +1,12 @@
+Time Interval,Date,Unemployment
+Pre Covid,Mar2018,70.1
+Pre Covid,Jun2018,64.7
+Pre Covid,Sep2018,69.7
+Pre Covid,Dec2018,55.4
+Pre Covid,Mar2019,61.7
+Pre Covid,Jun2019,57.4
+Pre Covid,Sep2019,58.2
+Pre Covid,Dec2019,52.1
+Covid,Mar2020,67.2
+Covid,Jun2020,124.4
+Covid,Sep2020,111.5

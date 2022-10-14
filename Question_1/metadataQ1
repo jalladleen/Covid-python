@@ -1,0 +1,46 @@
+
+Link of dataset used:
+
+https://data.ontario.ca/dataset/summary-of-cases-in-schools/resource/8b6d22e2-7065-4b0f-966f-02640be366f2
+-----------------------------------------------------------
+
+Organization:
+Treasury Board Secretariat
+-----------------------------------------------------------
+
+Updaters:
+Amy Bihari 
+Bianca Sayan
+Hao Qin
+
+-----------------------------------------------------------
+
+Brief description of the data used:
+
+The Government of Ontario is seeking to keep Ontarians safe during the Coronavirus outbreak, through updating the “Schools with active COVID-19 cases” data set which displays the total confirmed cases alongside the individual confirmed unspecified,staff, and students cases in each municipality and school at a given collected and reported date. 
+
+-----------------------------------------------------------
+
+Data includes :
+
+School Board
+School
+Municipality
+Confirmed Student Cases
+Confirmed Staff Cases
+Total Confirmed Cases
+School-related cases (total)
+School-related student cases
+School-related staff cases
+Current number of schools with a reported case
+Current number of schools closed
+-----------------------------------------------------------
+
+Additional Info:
+
+Geographic coverage:	Ontario
+Created:	September 11, 2020
+Format:	text/csv
+File size:	4.7 MiB
+License:	Open Government Licence – Ontario
+Data range start:	2020-09-11

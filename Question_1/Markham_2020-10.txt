@@ -1,0 +1,12 @@
+Positive COVID-19 Cases,School's Name
+1,St. Augustine Catholic High School
+3,Father Michael McGivney Catholic Academy
+6,David Suzuki Public School
+6,St. Michael Catholic Academy
+8,Middlefield Collegiate Institute
+9,Bayview Glen Public School
+9,Coppard Glen Public School
+9,Legacy Public School
+9,Pierre Elliott Trudeau High School
+15,Baythorn Public School
+17,Bill Crothers Secondary School

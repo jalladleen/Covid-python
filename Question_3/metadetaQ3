@@ -1,0 +1,46 @@
+
+Link of dataset used:
+
+https://data.ontario.ca/dataset/duration-of-unemployment/resource/8f786bb5-01ac-4e7d-b89f-3437a601941b
+-----------------------------------------------------------
+
+Organization:
+Labour, Training and Skills Development
+-----------------------------------------------------------
+
+Updaters:
+Bianca Sayan 
+Cody Schacter
+Cara Scarfone
+Razieh Faraji
+-----------------------------------------------------------
+
+Brief description of the data used:
+
+The dataset inctroduces the number of unployments of different age groups ranging from 15+ to 64. The duration of unemployment includes: 1-4 weeks, 5-13 weeks, 14-25 weeks, 26 weeks,...
+
+-----------------------------------------------------------
+
+Data includes :
+
+School Board
+School
+Municipality
+Confirmed Student Cases
+Confirmed Staff Cases
+Total Confirmed Cases
+School-related cases (total)
+School-related student cases
+School-related staff cases
+Current number of schools with a reported case
+Current number of schools closed
+-----------------------------------------------------------
+
+Additional Info:
+
+Geographic coverage:	Ontario
+Created:	December 7, 2020
+Format:	text/csv
+File size:	2.6 MiB
+License:	Open Government Licence – Ontario
+Data range start:	2006-03-01
