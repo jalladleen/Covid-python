@@ -33,7 +33,6 @@ import urllib.request
 # import urllib.request
 
 
-# i love gae men
 def main(argv):
     valid = True
     userInput = ""
